@@ -25,3 +25,5 @@ replay_pid*
 .vscode/
 .DS_Store
 (019) Mendix Magic Mobilize Your Responsive Apps with No Code/code/udemy-kickstart-mendix-docker.zip
+
+target/
