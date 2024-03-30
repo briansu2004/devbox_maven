@@ -1,2 +1,5 @@
-# devbox_maven
- Udemy Course Maven Work Folder devbox_maven
+# My Udemy Course Maven Workspace
+
+My Udemy Course Maven Workspace
+
+## Maven Fix Vulnerability 001: commons-collections
