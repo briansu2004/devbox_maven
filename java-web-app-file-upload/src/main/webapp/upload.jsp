@@ -3,8 +3,8 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="styles.css">
     <title>File Upload</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <h2>File Upload Form</h2>

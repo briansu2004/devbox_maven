@@ -1,4 +1,5 @@
 @cls
 
 cd c:\devbox_maven\java-web-app-file-upload
-mvn clean jetty:run
+@REM mvn clean install compile test jetty:run
+mvn jetty:run

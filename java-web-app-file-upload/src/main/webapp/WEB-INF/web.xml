@@ -2,6 +2,7 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+
   <servlet>
     <servlet-name>FileUploadServlet</servlet-name>
     <servlet-class>com.sutek.FileUploadServlet</servlet-class>
